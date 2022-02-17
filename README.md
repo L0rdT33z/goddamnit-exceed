@@ -1,4 +1,4 @@
 # goddamnit-exceed
 
-Oh My Goodness.
+Oh My Goodness.  
 EXCEED Hardware Project.
