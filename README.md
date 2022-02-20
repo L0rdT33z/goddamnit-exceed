@@ -1,4 +1,3 @@
 # goddamnit-exceed
 
-Oh My Goodness.  
-EXCEED Hardware Project.
+EXCEED Hardware Project Group 13 (Tiger Friend).
